@@ -33,8 +33,10 @@ The purpose of this project is to replicate the PRIMseqTools pipeline of "Genome
   6  Via mkdir, create sra_download subdirectory in user's scratch directory in the Exporer HPC
   
   7: cd to sra_download subdirectory located in scratch driectory
+
+  8: load sratoolkid module
  
-  8: Download chosen PRIM-Seq SRA run via wget to sra_downloads directory. Use paired read flag for download to generate paired reads
+  8: Download chosen PRIM-Seq SRA run via fasterq-dump with the --split-files flag to sra_downloads directory.
   
   9: Trim each read down to 1/4th of it's size via head command. Save the files to a test subdirectory within the scratch directory
   
