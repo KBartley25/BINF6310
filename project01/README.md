@@ -67,7 +67,8 @@ The purpose of this project is to replicate the PRIMseqTools pipeline of "Genome
 
 ## Group Leader: Kelly Bartley
 
-I learned a lot during this project, especially about how to troubleshoot errors that arose on the HPC. I can now confidently w
+I learned a lot during this project, especially about how to troubleshoot errors that arose on the HPC. I can now confidently navigate around the HPC and trouvleshoot issues that may arise
+
 # Generative AI Appendix
 
 AI Used: Claude Sonnet 4.5 
