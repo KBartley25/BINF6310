@@ -24,10 +24,10 @@ module load bwa
 module load samtools
 
 # Change to the bins directory where the Python helper scripts are
-cd /home/bartley.k/final_project/PRIMseqTools/bins
+cd /home/${USER}/final_project/PRIMseqTools/bins
 
 # Make sure output directory exists
-mkdir -p /scratch/bartley.k/primseq_output
+mkdir -p /scratch/${USER}/primseq_output
 
 # Run PRIMseqTools on quarter dataset
 ./PRIMseqTools \
