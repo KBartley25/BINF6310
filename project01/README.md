@@ -67,13 +67,17 @@ The purpose of this project is to replicate the PRIMseqTools pipeline of "Genome
 
 ## Group Leader: Kelly Bartley
 
-I learned a lot during this project, especially about how to troubleshoot errors that arose on the HPC. I can now confidently navigate around the HPC and troubleshoot issues that may arise
+I learned a lot during this project, especially about how to troubleshoot errors that arose on the HPC. I can now confidently navigate around the HPC and troubleshoot issues that may arise. It also gave me experience creating virtual environments for a project and working within that virtual environment. Another thing I learned from this project was how to navigate around using the terminal. I was previously unfamiliar with how to use the terminal. Having to use the terminal to navigate around the HPC was a valuable experience for getting more comfortable with it.  
 
 ## Other Members
 
+Julia Luo
 "I learned a lot from this project - I gained a lot more experience using Linux and navigating directories, and learned how to use the Northeastern HPC. Figuring out the entire pipeline, starting with downloading the data, then gathering all the components needed to run PRIMseq tools, along with debugging issues along the way, gave me great hands-on experience. I believe I will have to continue using HPCs in my line of work, so I definitely feel more prepared now!"
 
-Julia Luo 
+Paris Johnson
+This project taught me a lot of new skills and also that bioinformatics relies heavily on troubleshooting abilities. The most rewarding part of this project was when the pipeline finally worked successfully and I saw all of the chimeric reads appeared. This experience of reproducing a publication has given me more confidence in my ability to tackle complex pipelines, and I am excited to do so in the future as my career progresses in Bioinformatics.
+
+
 
 # Generative AI Appendix
 
