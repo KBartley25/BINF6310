@@ -79,6 +79,10 @@ Paris Johnson
 
 "This project taught me a lot of new skills and also that bioinformatics relies heavily on troubleshooting abilities. The most rewarding part of this project was when the pipeline finally worked successfully and I saw all of the chimeric reads appeared. This experience of reproducing a publication has given me more confidence in my ability to tackle complex pipelines, and I am excited to do so in the future as my career progresses in Bioinformatics."
 
+Aleena Iraqui
+
+"This project pushed me beyond my comfort zone in the best way possible. Wrestling with software dependencies, navigating HPC systems, and debugging errors taught me that bioinformatics is equal parts science and troubleshooting. Seeing our pipeline reproduce published results felt incredibly validating. I've gained confidence tackling complex computational analyses and genuine appreciation for reproducible research."
+
 
 
 # Generative AI Appendix
